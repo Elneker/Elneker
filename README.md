@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kerem AYDIN
-- 👀 I’m interested in Anime Girls.
-- 🌱 I’m currently learning How to sleep 8 hours in 3 hours.
-- 💞️ I’m looking to collaborate on 3rd World War.
-- 📫 How to reach me: Dont even try.
+- 👀 I’m interested in Games.
+- 🌱 I’m currently studying at Fırat University.
+- 📫 How to reach me: keremaydin.pm@gmail.com
 
 <!---
 Elneker/Elneker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
