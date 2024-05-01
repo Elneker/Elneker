@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Kerem AYDIN
-- 👀 I’m interested in Games.
-- 🌱 I’m currently studying at Fırat University.
-- 📫 How to reach me: keremaydin.pm@gmail.com
+- 👋 Hi, I’m Aulë
 
 <!---
 Elneker/Elneker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
